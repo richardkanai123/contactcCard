@@ -16,9 +16,6 @@
     background-color: rgba(180, 180, 218, 0.884); 
 }
 
-
-
-
 .main{
     font-family: 'Poppins', sans-serif;
     width: 100%;
@@ -59,6 +56,14 @@
     border-radius: 25px;
     padding: 20px 20px;
     margin: 10px 10px;
+    transition: 1s box-shadow ease;
+    animation: bodyanime infinite 30s;
+}
+
+
+@keyframes bodyanime{
+    from {box-shadow: none;}
+    to {box-shadow:15px 10px 15px 10px rgba(180, 180, 218, 0.884);}
 }
 
 .circle{
