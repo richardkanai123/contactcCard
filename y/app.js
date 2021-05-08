@@ -32,17 +32,13 @@ social.children[1].addEventListener('mouseover', () =>{
 });
 social.children[2].addEventListener('mouseover', () =>{
 
-    h5.innerText = "Messenger"
+    h5.innerText = "Instagram"
 });
 social.children[3].addEventListener('mouseover', () =>{
 
-    h5.innerText = "Instagram"
-});
-social.children[4].addEventListener('mouseover', () =>{
-
     h5.innerText = "Gmail"
 });
-social.children[5].addEventListener('mouseover', () =>{
+social.children[4].addEventListener('mouseover', () =>{
 
     h5.innerText = "Whatsapp"
 });
