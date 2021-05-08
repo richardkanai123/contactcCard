@@ -50,7 +50,3 @@ social.children[6].addEventListener('mouseover', () =>{
 
     h5.innerText = "Linkedin"
 });
-
-
-
-
