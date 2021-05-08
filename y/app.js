@@ -46,6 +46,10 @@ social.children[5].addEventListener('mouseover', () =>{
 
     h5.innerText = "Whatsapp"
 });
+social.children[5].addEventListener('mouseover', () =>{
+
+    h5.innerText = "Github"
+});
 social.children[6].addEventListener('mouseover', () =>{
 
     h5.innerText = "Linkedin"

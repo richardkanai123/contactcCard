@@ -178,6 +178,9 @@
 .social .fa-linkedin{
     color: rgb(21, 137, 231);
 }
+.social .fa-github{
+    color: rgb(235, 236, 236);
+}
 
 section{
     color: indianred;
